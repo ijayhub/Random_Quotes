@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+background-color:cadetblue;
+font-family:'pattaya';
+
+}
+.main-header{
+    text-align: center;
+}
+#container{
+    display:flex;
+    justify-content:center;
+    background-color: gainsboro;
+    padding:100px;
+    border:1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px gray;
+    position:relative;
+    top:40px;
+}
+#btn{
+    position:relative;
+    top:60px;
+    border:none;
+    background-color: cadetblue;
+    border-radius: 5px;
+    color:white;
+
+    padding:5px;
+    width:50%;
+    text-align: center;
+
+}
+#output{
+    position:relative;
+    bottom:120px !important;
+    width:100%;
+    text-align: center;
+    color: cadetblue;
+    font-family:cursive;
+
+}
+.line{
+    width:50%;
+    background-color:gainsboro;
+    position:relative;
+    top:30px;
+}
+/* responsiveness */
+@media only screen and (max-width:768px){
+    #btn{
+        position:relative;
+        top:80px;
+    
+        width:120%;
+        
+    }
+    
+
+}
