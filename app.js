@@ -10,7 +10,7 @@ let quote = [
     'Remember, being happy does not mean you have it all. It simply means you are thankful for all you have.<hr>Anonymous',
     'Character is how you treat people who can do nothing for you.<hr><br>Anonymous',
     "I don't go by the rule book... i lead from the heart, not the head.<hr><br> Princess Diana",
-    'If God Be for Who can Be Against Me.<hr><br> Romans 8 vs 31',
+    'If God Be for Who can Be Against You.<hr><br> Romans 8 vs 31',
     'Magic is believing in yourself. If you can make that happen, you can make anything happen.<hr><br> Johann Wolfgang Van Goethe '
     
 
