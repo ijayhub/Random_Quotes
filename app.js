@@ -19,3 +19,18 @@ btn.addEventListener('click',()=> {
     let randomQuote = quote[Math.floor(Math.random()*quote.length)];
     output.innerHTML = randomQuote;
 })
+
+
+
+// background change
+let colors=['pink','blue','orange','brown' ];
+
+let button=document.getElementById('btn2')
+// randomizer
+
+
+button.addEventListener('click', function(){
+    let randomColor = colors[Math.floor(Math.random()*colors.length)];
+document.body.style.backgroundColor= randomColor;
+});
+console.log(button) 
